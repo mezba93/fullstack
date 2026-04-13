@@ -18,12 +18,14 @@ const contact = () => {
         <div className="flex flex-col justify-center items-start gap-6 ">
           <p className="font-semibold text-lg text-gray-600">OUR OFFICE</p>
           <p className="text-gray-500">
-            54446 Wills Station <br />
-            Suite 350, Washington ,USA
+            Kazla, Rajshahi - 6204 <br/>
+            Bangladesh 
           </p>
           <p className="text-gray-500">
-            Tel:(415) 555-0132 <br />
-            Email : abdus.salam20203@gmail.com
+            Tel: 01521776461 <br />
+            Email: abdus.salam20203@gmail.com<br/>
+            Email: mezbarubab93@gmail.com
+            
           </p>
           <p className="font-semibold text-lg text-gray-600">
             Careers at PRESCRIPTO
